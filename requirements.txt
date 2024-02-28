@@ -1,0 +1,10 @@
+telethon
+requests
+python_socks
+async_timeout
+bs4
+html5lib
+py-machineid==0.2.1
+python-socks[asyncio]
+socks
+pysocks
